@@ -14,7 +14,7 @@ This github repository will walk you through setting up your Git and GitHub acco
 - [x] Forking a Repository  
 - [x] Cloning a Repository  
 - [x] Making Changes to the Repository  
-- [ ] Commiting Changes Locally  
+- [x] Commiting Changes Locally  
 - [ ] Moving Changes to GitHub   
 - [ ] Standard Work Flow
 
@@ -167,4 +167,5 @@ Git will be a tool you likely use daily throughout your career.
 
 This was a minimal dive into Git to make certain your computer's environment is set correctly. A deeper-dive into Git with additional functionality and explanations will be part of your continued learning at BloomTech.
 
-
+token
+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
